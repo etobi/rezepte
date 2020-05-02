@@ -35,12 +35,12 @@ https://www.tasteoftravel.at/weiche-burger-buns/
 	* abkühlen lassen (1-2 Std)
 	
 * Hauptteig
-  * Hefe in warmer Milch auflösen
+	* Hefe in warmer Milch auflösen
 	* kneten
 	* Ei hinzufügen
 	* Vorteig hinzufügen
 	* flüssige Butter hinzufügen
-  * Zucker hinzufügen
+	* Zucker hinzufügen
 	* Salz hinzufügen
 	* hälfte Mehl hinzufügen
 	* das restliche Mehl löffelweise hinzufügen
