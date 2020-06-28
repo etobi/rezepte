@@ -4,12 +4,12 @@ https://www.privatkoch-hamburg.de/pita-brot-rezept/
 
 ## Zutaten (8 Stk)
 
-500 g Mehl Typ 550
-300 g kaltes Wasser (ich wiege Flüssigkeiten immer ab, das ist genauer) 
-12 g Salz 
-10 g frische Hefe
-20 g Olivenöl
-etwas extra Mehl zum bestäuben der Arbeitsflächen
+* 500 g Mehl Typ 550
+* 300 g kaltes Wasser
+* 12 g Salz 
+* 10 g frische Hefe
+* 20 g Olivenöl
+* etwas extra Mehl
 
 ## Zubereitung
 
@@ -30,4 +30,4 @@ etwas extra Mehl zum bestäuben der Arbeitsflächen
 * geben ein Blech in den Ofen auf die unterste Schiene.
 * Ist das Blech richtig heiß, legen wir die Fladen auf das Blech.
 * Nach ein paar Minuten werden sie aufgehen wie ein Ballon.
-* einmal um drehen
+* einmal umdrehen
